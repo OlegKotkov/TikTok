@@ -1,9 +1,3 @@
-//
-//  SceneDelegate.swift
-//  TikTok 2.0
-//
-//  Created by mac on 28.02.2022.
-//
 
 import UIKit
 
